@@ -20,7 +20,7 @@ This project is designed for managing attendance records of students or employee
 -  Email attendance reports with attachments
 -  Automatic backup system
 -  Responsive sidebar navigation
-- ✅ Real-time clock and toast notifications
+-  Real-time clock and toast notifications
 
 ---
 
