@@ -1,4 +1,4 @@
-# 🎓 Attendance Management System — Professional Edition
+# 🎓 Attendance Management System 
 
 A modern **Attendance Management System** built with **Python Tkinter**, featuring a professional dark-themed GUI, SQLite database integration, CSV export, analytics dashboards, email reporting, and automated backups.
 
@@ -35,13 +35,6 @@ This project is designed for managing attendance records of students or employee
 - Threading
 
 ## 🚀 Installation
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/attendance-management-system.git
-cd attendance-management-system
-```
 
 ### 2️⃣ Install Required Libraries
 
